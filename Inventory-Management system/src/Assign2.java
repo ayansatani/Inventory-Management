@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class Assign2 {
 
 	/**
-	 * Main method to run the inventory management system.
+	 * Main method to run the Inventory management system.
 	 *
 	 * @param args The command-line arguments
 	 */
