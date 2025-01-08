@@ -1,0 +1,49 @@
+f
+100
+Barlett Pear
+100
+0.25
+0.10
+Niagara Orchard
+f
+111
+Apple
+50
+0.25
+0.10
+apple
+v
+200
+Carrot
+1000
+0.19
+0.05
+McDonald's Farm
+p
+212
+Raspberry Jam
+30
+5.50
+2.28
+250
+p
+215
+Raspberry Jelly
+20
+6.50
+2.28
+250
+f
+311
+McIntosh Apple
+200
+0.25
+0.10
+Niagara Orchard
+v
+322
+Vine Ripe Tomato
+100
+0.35
+0.10
+McDonald's Farm
